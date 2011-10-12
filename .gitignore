@@ -1,0 +1,14 @@
+*.iml
+*.ipr
+*.iws
+.idea/
+out/
+tmp/
+target/
+.classpath
+.settings
+.project
+gen/
+proguard.cfg
+build.xml
+local.properties
